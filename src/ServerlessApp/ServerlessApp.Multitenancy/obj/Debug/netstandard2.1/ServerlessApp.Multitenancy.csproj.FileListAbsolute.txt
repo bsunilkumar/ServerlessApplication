@@ -1,0 +1,8 @@
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\bin\Debug\netstandard2.1\ServerlessApp.Multitenancy.deps.json
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\bin\Debug\netstandard2.1\ServerlessApp.Multitenancy.dll
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\bin\Debug\netstandard2.1\ServerlessApp.Multitenancy.pdb
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\obj\Debug\netstandard2.1\ServerlessApp.Multitenancy.AssemblyInfoInputs.cache
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\obj\Debug\netstandard2.1\ServerlessApp.Multitenancy.AssemblyInfo.cs
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\obj\Debug\netstandard2.1\ServerlessApp.Multitenancy.csproj.CoreCompileInputs.cache
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\obj\Debug\netstandard2.1\ServerlessApp.Multitenancy.dll
+D:\Acendre_Workspace\ServerlessApplication\src\ServerlessApp\ServerlessApp.Multitenancy\obj\Debug\netstandard2.1\ServerlessApp.Multitenancy.pdb

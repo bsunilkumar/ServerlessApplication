@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+    <AWSProjectType>Lambda</AWSProjectType>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.S3" Version="3.3.110.58" />
+    <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="3.3.100.1" />
+    <PackageReference Include="Amazon.Lambda.AspNetCoreServer" Version="5.1.0" />
+
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.5.1" />
+
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ServerlessApp.Domain\ServerlessApp.Domain.csproj" />
+    <ProjectReference Include="..\ServerlessApp.NHibernate\ServerlessApp.NHibernate.csproj" />
+    <ProjectReference Include="..\ServerlessApp.Repositories\ServerlessApp.Repositories.csproj" />
+    <ProjectReference Include="..\ServerlessApp.ViewModels\ServerlessApp.ViewModels.csproj" />
+  </ItemGroup>
+</Project>
