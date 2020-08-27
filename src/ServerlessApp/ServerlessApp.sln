@@ -13,15 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerlessApp.Web.Auth.Api"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerlessApp.Integrations", "ServerlessApp.Integrations\ServerlessApp.Integrations.csproj", "{F7D301E9-C3B5-4897-9043-8C945A64DAB7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServerlessApp.Web.UI", "ServerlessApp.Web.UI\ServerlessApp.Web.UI.csproj", "{F6BD40F9-B2F2-4CBB-90A4-8B77FC7942F0}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessApp.NHibernate", "ServerlessApp.NHibernate\ServerlessApp.NHibernate.csproj", "{F0E1683C-9BB9-4DBB-8456-06CD41D206EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessApp.ViewModels", "ServerlessApp.ViewModels\ServerlessApp.ViewModels.csproj", "{578990E1-9D9F-4E99-AACC-7911FE596E67}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerlessApp.Multitenancy", "ServerlessApp.Multitenancy\ServerlessApp.Multitenancy.csproj", "{A41CBF51-9883-4582-BD0E-2A90E53F387E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serverless.WebUI", "Serverless.WebUI\Serverless.WebUI.csproj", "{0930D589-4111-40B2-82E2-BE69D74E51B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
